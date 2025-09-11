@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "name": "Aarav Sharma",
+    "bio": "Full Stack Developer | Tech Enthusiast",
+    "address": "Kathmandu, Nepal",
+    "education": "B.Sc. CSIT, Tribhuvan University"
+  },
+  {
+    "id": 2,
+    "image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "name": "Priya Karki",
+    "bio": "UI/UX Designer | Creative Thinker",
+    "address": "Pokhara, Nepal",
+    "education": "Bachelor in Information Technology"
+  },
+  {
+    "id": 3,
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "name": "Rohan Thapa",
+    "bio": "Frontend Developer | React Specialist",
+    "address": "Butwal, Nepal",
+    "education": "B.Sc. CSIT, TU"
+  },
+  {
+    "id": 4,
+    "image": "https://randomuser.me/api/portraits/women/4.jpg",
+    "name": "Sneha Shrestha",
+    "bio": "Graphic Designer | Photoshop & Illustrator Expert",
+    "address": "Lalitpur, Nepal",
+    "education": "Bachelor in Fine Arts"
+  },
+  {
+    "id": 5,
+    "image": "https://randomuser.me/api/portraits/men/5.jpg",
+    "name": "Kiran Bhandari",
+    "bio": "Backend Developer | Node.js Lover",
+    "address": "Chitwan, Nepal",
+    "education": "B.Sc. CSIT"
+  },
+  {
+    "id": 6,
+    "image": "https://randomuser.me/api/portraits/women/6.jpg",
+    "name": "Anisha Gurung",
+    "bio": "SEO Specialist | Digital Marketer",
+    "address": "Bhaktapur, Nepal",
+    "education": "BBA in Marketing"
+  },
+  {
+    "id": 7,
+    "image": "https://randomuser.me/api/portraits/men/7.jpg",
+    "name": "Bibek Magar",
+    "bio": "Data Analyst | Python & SQL Enthusiast",
+    "address": "Dharan, Nepal",
+    "education": "B.Sc. in Data Science"
+  },
+  {
+    "id": 8,
+    "image": "https://randomuser.me/api/portraits/women/8.jpg",
+    "name": "Sita Adhikari",
+    "bio": "Content Writer | Blogger",
+    "address": "Hetauda, Nepal",
+    "education": "BA in English Literature"
+  },
+  {
+    "id": 9,
+    "image": "https://randomuser.me/api/portraits/men/9.jpg",
+    "name": "Manish KC",
+    "bio": "Software Engineer | Problem Solver",
+    "address": "Nepalgunj, Nepal",
+    "education": "B.E. in Software Engineering"
+  },
+  {
+    "id": 10,
+    "image": "https://randomuser.me/api/portraits/women/10.jpg",
+    "name": "Rachana Shahi",
+    "bio": "Dancer | Social Media Influencer",
+    "address": "Manigram, Nepal",
+    "education": "Bachelor in Arts"
+  },
+  {
+    "id": 11,
+    "image": "https://randomuser.me/api/portraits/men/11.jpg",
+    "name": "Sujan Khadka",
+    "bio": "Cybersecurity Enthusiast | Ethical Hacker",
+    "address": "Biratnagar, Nepal",
+    "education": "B.Sc. CSIT"
+  },
+  {
+    "id": 12,
+    "image": "https://randomuser.me/api/portraits/women/12.jpg",
+    "name": "Puja Rai",
+    "bio": "Frontend Developer | Vue.js Enthusiast",
+    "address": "Damak, Nepal",
+    "education": "Bachelor in Computer Engineering"
+  },
+  {
+    "id": 13,
+    "image": "https://randomuser.me/api/portraits/men/13.jpg",
+    "name": "Nischal Lama",
+    "bio": "DevOps Engineer | Cloud Specialist",
+    "address": "Ilam, Nepal",
+    "education": "B.Sc. in Cloud Computing"
+  },
+  {
+    "id": 14,
+    "image": "https://randomuser.me/api/portraits/women/14.jpg",
+    "name": "Shristi Basnet",
+    "bio": "Product Designer | Figma & Sketch Lover",
+    "address": "Janakpur, Nepal",
+    "education": "Bachelor in Design"
+  },
+  {
+    "id": 15,
+    "image": "https://randomuser.me/api/portraits/men/15.jpg",
+    "name": "Rajesh Adhikari",
+    "bio": "Software Tester | Quality Assurance Specialist",
+    "address": "Birgunj, Nepal",
+    "education": "B.Sc. IT"
+  },
+  {
+    "id": 16,
+    "image": "https://randomuser.me/api/portraits/women/16.jpg",
+    "name": "Kabita Poudel",
+    "bio": "Mobile App Developer | Flutter Enthusiast",
+    "address": "Dang, Nepal",
+    "education": "B.Sc. CSIT"
+  },
+  {
+    "id": 17,
+    "image": "https://randomuser.me/api/portraits/men/17.jpg",
+    "name": "Arjun Gautam",
+    "bio": "Machine Learning Enthusiast | AI Researcher",
+    "address": "Lamjung, Nepal",
+    "education": "B.Sc. in Artificial Intelligence"
+  },
+  {
+    "id": 18,
+    "image": "https://randomuser.me/api/portraits/women/18.jpg",
+    "name": "Bimala Rana",
+    "bio": "HR Manager | People Person",
+    "address": "Nawalpur, Nepal",
+    "education": "MBA in HR"
+  },
+  {
+    "id": 19,
+    "image": "https://randomuser.me/api/portraits/men/19.jpg",
+    "name": "Dipesh Bhattarai",
+    "bio": "Full Stack Developer | MERN Stack Enthusiast",
+    "address": "Parbat, Nepal",
+    "education": "B.Sc. CSIT"
+  },
+  {
+    "id": 20,
+    "image": "https://randomuser.me/api/portraits/women/20.jpg",
+    "name": "Nikita Shrestha",
+    "bio": "Digital Marketer | Social Media Strategist",
+    "address": "Kapilvastu, Nepal",
+    "education": "BBA in Marketing"
+  },
+  {
+    "id": 21,
+    "image": "https://randomuser.me/api/portraits/men/21.jpg",
+    "name": "Prabin Giri",
+    "bio": "Network Engineer | CCNA Certified",
+    "address": "Palpa, Nepal",
+    "education": "Bachelor in Networking"
+  },
+  {
+    "id": 22,
+    "image": "https://randomuser.me/api/portraits/women/22.jpg",
+    "name": "Samiksha Pandey",
+    "bio": "Teacher | Motivational Speaker",
+    "address": "Syangja, Nepal",
+    "education": "Masters in Education"
+  },
+  {
+    "id": 23,
+    "image": "https://randomuser.me/api/portraits/men/23.jpg",
+    "name": "Anil Maharjan",
+    "bio": "System Administrator | Linux Lover",
+    "address": "Baglung, Nepal",
+    "education": "B.Sc. IT"
+  },
+  {
+    "id": 24,
+    "image": "https://randomuser.me/api/portraits/women/24.jpg",
+    "name": "Rupa Shah",
+    "bio": "Entrepreneur | Startup Enthusiast",
+    "address": "Tanahun, Nepal",
+    "education": "MBA"
+  },
+  {
+    "id": 25,
+    "image": "https://randomuser.me/api/portraits/men/25.jpg",
+    "name": "Sagar Kharel",
+    "bio": "Backend Developer | API Specialist",
+    "address": "Rupandehi, Nepal",
+    "education": "B.Sc. CSIT"
+  },
+  {
+    "id": 26,
+    "image": "https://randomuser.me/api/portraits/women/25.jpg",
+    "name": "Ankita Joshi",
+    "bio": "Photographer | Creative Artist",
+    "address": "Kaski, Nepal",
+    "education": "Bachelor in Arts"
+  },
+  {
+    "id": 27,
+    "image": "https://randomuser.me/api/portraits/men/26.jpg",
+    "name": "Roshan Tiwari",
+    "bio": "AI Engineer | Data Scientist",
+    "address": "Makwanpur, Nepal",
+    "education": "M.Sc. AI"
+  },
+  {
+    "id": 28,
+    "image": "https://randomuser.me/api/portraits/women/26.jpg",
+    "name": "Asmita Shakya",
+    "bio": "Psychologist | Mental Health Advocate",
+    "address": "Sindhuli, Nepal",
+    "education": "Masters in Psychology"
+  },
+  {
+    "id": 29,
+    "image": "https://randomuser.me/api/portraits/men/27.jpg",
+    "name": "Ramesh Koirala",
+    "bio": "Entrepreneur | Tech Investor",
+    "address": "Gorkha, Nepal",
+    "education": "MBA"
+  },
+  {
+    "id": 30,
+    "image": "https://randomuser.me/api/portraits/women/27.jpg",
+    "name": "Mina Acharya",
+    "bio": "Nurse | Healthcare Worker",
+    "address": "Rolpa, Nepal",
+    "education": "B.Sc. Nursing"
+  }
+]

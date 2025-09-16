@@ -2,7 +2,7 @@
   {
     "id": 1,
     "user": "Nirmal Dhakal",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/nirmal.svg",
+    "avatar": "https://avatars.dicebear.com/api/bottts/nirmal.svg",
     "content": "This is my first post!",
     "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
     "likes": 120,
@@ -12,8 +12,8 @@
   },
   {
     "id": 2,
-    "user": "Rachana Sharma",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/rachana.svg",
+    "user": "Rachana Pandey",
+    "avatar": "https://avatars.dicebear.com/api/bottts/rachana.svg",
     "content": "Excited to start a new project today!",
     "image": "https://images.unsplash.com/photo-1557800636-894a64c1696f",
     "likes": 95,
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "user": "Sujan Thapa",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/sujan.svg",
+    "avatar": "https://avatars.dicebear.com/api/bottts/sujan.svg",
     "content": "Beautiful day for a walk in the park.",
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
     "likes": 78,
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "user": "Anita Koirala",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/anita.svg",
+    "avatar": "https://avatars.dicebear.com/api/bottts/anita.svg",
     "content": "Just finished reading a great book!",
     "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
     "likes": 110,
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "user": "Bibek Rana",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/bibek.svg",
+    "avatar": "https://avatars.dicebear.com/api/bottts/bibek.svg",
     "content": "Had an amazing dinner with friends tonight.",
     "image": "https://images.unsplash.com/photo-1529692236671-f1a0a2bbf2e2",
     "likes": 85,
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "user": "Sita Gurung",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/sita.svg",
+    "avatar": "https://avatars.dicebear.com/api/bottts/sita.svg",
     "content": "Loving the new coffee shop in town.",
     "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
     "likes": 70,
@@ -68,7 +68,7 @@
   {
     "id": 7,
     "user": "Pradeep Rai",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/pradeep.svg",
+    "avatar": "https://avatars.dicebear.com/api/bottts/pradeep.svg",
     "content": "Exploring the mountains this weekend.",
     "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
     "likes": 95,
@@ -79,7 +79,7 @@
   {
     "id": 8,
     "user": "Maya Gurung",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/maya.svg",
+    "avatar": "https://avatars.dicebear.com/api/bottts/maya.svg",
     "content": "Yoga session at sunrise was refreshing.",
     "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
     "likes": 110,
@@ -90,7 +90,7 @@
   {
     "id": 9,
     "user": "Rajesh Bhandari",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/rajesh.svg",
+    "avatar": "https://avatars.dicebear.com/api/bottts/rajesh.svg",
     "content": "Celebrating my promotion at work!",
     "image": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4",
     "likes": 120,
@@ -101,7 +101,7 @@
   {
     "id": 10,
     "user": "Sanjay Joshi",
-    "avatar": "https://avatars.dicebear.com/api/avataaars/sanjay.svg",
+    "avatar": "https://avatars.dicebear.com/api/bottts/sanjay.svg",
     "content": "Weekend getaway to the beach.",
     "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
     "likes": 130,

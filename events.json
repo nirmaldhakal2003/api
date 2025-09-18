@@ -5,7 +5,9 @@
     "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
     "date": "2025-10-05",
     "time": "10:00 AM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "A gathering of technology leaders and enthusiasts to discuss emerging trends in AI, robotics, and innovation.",
+    "ongoingNews": "Registrations are open, keynote speakers are being announced weekly."
   },
   {
     "id": 2,
@@ -13,7 +15,9 @@
     "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546",
     "date": "2025-09-28",
     "time": "06:30 PM",
-    "isCompleted": true
+    "isCompleted": true,
+    "description": "A platform for budding entrepreneurs to pitch their startup ideas to investors.",
+    "conclusion": "Five startups secured funding, and two were selected for mentorship programs."
   },
   {
     "id": 3,
@@ -21,7 +25,9 @@
     "image": "https://images.unsplash.com/photo-1581092334536-63d6200f8fdd",
     "date": "2025-10-10",
     "time": "09:00 AM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "Hands-on workshop focused on building ML models and understanding neural networks.",
+    "ongoingNews": "Only a few seats left, early bird registration ends soon."
   },
   {
     "id": 4,
@@ -29,7 +35,9 @@
     "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
     "date": "2025-09-25",
     "time": "02:00 PM",
-    "isCompleted": true
+    "isCompleted": true,
+    "description": "An exhibition showcasing work of local and international photographers.",
+    "conclusion": "Over 200 visitors attended, with three photographers winning recognition awards."
   },
   {
     "id": 5,
@@ -37,7 +45,9 @@
     "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61",
     "date": "2025-10-20",
     "time": "08:00 AM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "24-hour hackathon to create innovative solutions for social problems.",
+    "ongoingNews": "Team registrations are still open and mentors have been finalized."
   },
   {
     "id": 6,
@@ -45,7 +55,9 @@
     "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2",
     "date": "2025-09-30",
     "time": "05:00 PM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "A night filled with live performances, bands, and food stalls.",
+    "ongoingNews": "Stage setup is in progress, tickets are selling fast."
   },
   {
     "id": 7,
@@ -53,7 +65,9 @@
     "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
     "date": "2025-11-05",
     "time": "11:30 AM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "Celebration of art, dance, and traditions from various cultures.",
+    "ongoingNews": "Local artisans and performers are being invited."
   },
   {
     "id": 8,
@@ -61,7 +75,9 @@
     "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
     "date": "2025-09-22",
     "time": "07:00 AM",
-    "isCompleted": true
+    "isCompleted": true,
+    "description": "A full-day retreat focused on mindfulness, yoga, and healthy living.",
+    "conclusion": "Participants reported improved mental clarity and physical relaxation."
   },
   {
     "id": 9,
@@ -69,7 +85,9 @@
     "image": "https://images.unsplash.com/photo-1556742400-b5c4c3f7997e",
     "date": "2025-10-15",
     "time": "09:30 AM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "Learn blockchain fundamentals and build your first decentralized app.",
+    "ongoingNews": "Developers and blockchain experts have been confirmed as mentors."
   },
   {
     "id": 10,
@@ -77,7 +95,9 @@
     "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
     "date": "2025-09-29",
     "time": "04:00 PM",
-    "isCompleted": true
+    "isCompleted": true,
+    "description": "Taste delicacies from local and international chefs with live cooking shows.",
+    "conclusion": "Crowd-favorite dish award went to a local Nepali chef."
   },
   {
     "id": 11,
@@ -85,7 +105,9 @@
     "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
     "date": "2025-10-02",
     "time": "10:30 AM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "Networking event for startup founders, investors, and mentors.",
+    "ongoingNews": "The final guest list is being curated to ensure quality networking."
   },
   {
     "id": 12,
@@ -93,7 +115,9 @@
     "image": "https://images.unsplash.com/photo-1581092795360-4e7b3cbf97c8",
     "date": "2025-11-10",
     "time": "01:00 PM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "Showcase of latest innovations in robotics and automation.",
+    "ongoingNews": "Several universities have confirmed their participation."
   },
   {
     "id": 13,
@@ -101,7 +125,9 @@
     "image": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc",
     "date": "2025-09-26",
     "time": "07:30 PM",
-    "isCompleted": true
+    "isCompleted": true,
+    "description": "Special screening of top-rated science fiction films under the stars.",
+    "conclusion": "Audience voted 'Interstellar' as the best movie of the night."
   },
   {
     "id": 14,
@@ -109,7 +135,9 @@
     "image": "https://images.unsplash.com/photo-1556157382-97eda2e2f56b",
     "date": "2025-10-18",
     "time": "09:00 AM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "Workshops and seminars to spread awareness about online safety.",
+    "ongoingNews": "Ethical hacking competition slots are filling up fast."
   },
   {
     "id": 15,
@@ -117,7 +145,9 @@
     "image": "https://images.unsplash.com/photo-1555617950-36f9a0f7c885",
     "date": "2025-11-01",
     "time": "10:00 AM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "Industry experts discuss the future of cloud technologies and services.",
+    "ongoingNews": "Keynote topics have been announced on the official website."
   },
   {
     "id": 16,
@@ -125,7 +155,9 @@
     "image": "https://images.unsplash.com/photo-1497032205916-ac775f0649ae",
     "date": "2025-10-08",
     "time": "06:00 PM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "Competition for talented dancers and musicians from across the region.",
+    "ongoingNews": "Audition videos are currently being reviewed."
   },
   {
     "id": 17,
@@ -133,7 +165,9 @@
     "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
     "date": "2025-09-27",
     "time": "08:30 AM",
-    "isCompleted": true
+    "isCompleted": true,
+    "description": "Annual sports meet with multiple games and fun activities.",
+    "conclusion": "The event ended with a closing ceremony and prize distribution."
   },
   {
     "id": 18,
@@ -141,7 +175,9 @@
     "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa",
     "date": "2025-10-25",
     "time": "02:00 PM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "Competitive gaming event with cash prizes and live streaming.",
+    "ongoingNews": "Team registrations are ongoing and sponsorships are being confirmed."
   },
   {
     "id": 19,
@@ -149,7 +185,9 @@
     "image": "https://images.unsplash.com/photo-1532635245-dc93d09e6e4f",
     "date": "2025-10-12",
     "time": "11:00 AM",
-    "isCompleted": false
+    "isCompleted": false,
+    "description": "A fair to showcase innovative science projects from students.",
+    "ongoingNews": "Project submission deadline extended by two days."
   },
   {
     "id": 20,
@@ -157,6 +195,8 @@
     "image": "https://images.unsplash.com/photo-1526378722323-6b1e3f84b6e1",
     "date": "2025-09-24",
     "time": "09:00 AM",
-    "isCompleted": true
+    "isCompleted": true,
+    "description": "Intensive bootcamp covering full-stack web development.",
+    "conclusion": "Participants successfully deployed real-world projects at the end of the program."
   }
 ]

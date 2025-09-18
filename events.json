@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Conference 2025",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
+    "date": "2025-10-05",
+    "time": "10:00 AM",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "title": "Startup Pitch Night",
+    "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546",
+    "date": "2025-09-28",
+    "time": "06:30 PM",
+    "isCompleted": true
+  },
+  {
+    "id": 3,
+    "title": "AI & Machine Learning Workshop",
+    "image": "https://images.unsplash.com/photo-1581092334536-63d6200f8fdd",
+    "date": "2025-10-10",
+    "time": "09:00 AM",
+    "isCompleted": false
+  },
+  {
+    "id": 4,
+    "title": "Photography Exhibition",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+    "date": "2025-09-25",
+    "time": "02:00 PM",
+    "isCompleted": true
+  },
+  {
+    "id": 5,
+    "title": "Hackathon: Code for Change",
+    "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61",
+    "date": "2025-10-20",
+    "time": "08:00 AM",
+    "isCompleted": false
+  },
+  {
+    "id": 6,
+    "title": "Music Festival",
+    "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2",
+    "date": "2025-09-30",
+    "time": "05:00 PM",
+    "isCompleted": false
+  },
+  {
+    "id": 7,
+    "title": "Art & Culture Fair",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "date": "2025-11-05",
+    "time": "11:30 AM",
+    "isCompleted": false
+  },
+  {
+    "id": 8,
+    "title": "Yoga & Wellness Retreat",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+    "date": "2025-09-22",
+    "time": "07:00 AM",
+    "isCompleted": true
+  },
+  {
+    "id": 9,
+    "title": "Blockchain Bootcamp",
+    "image": "https://images.unsplash.com/photo-1556742400-b5c4c3f7997e",
+    "date": "2025-10-15",
+    "time": "09:30 AM",
+    "isCompleted": false
+  },
+  {
+    "id": 10,
+    "title": "Food & Drinks Festival",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+    "date": "2025-09-29",
+    "time": "04:00 PM",
+    "isCompleted": true
+  },
+  {
+    "id": 11,
+    "title": "Startup Networking Brunch",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "date": "2025-10-02",
+    "time": "10:30 AM",
+    "isCompleted": false
+  },
+  {
+    "id": 12,
+    "title": "Robotics Expo",
+    "image": "https://images.unsplash.com/photo-1581092795360-4e7b3cbf97c8",
+    "date": "2025-11-10",
+    "time": "01:00 PM",
+    "isCompleted": false
+  },
+  {
+    "id": 13,
+    "title": "Movie Night: Sci-Fi Special",
+    "image": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc",
+    "date": "2025-09-26",
+    "time": "07:30 PM",
+    "isCompleted": true
+  },
+  {
+    "id": 14,
+    "title": "Cybersecurity Awareness Day",
+    "image": "https://images.unsplash.com/photo-1556157382-97eda2e2f56b",
+    "date": "2025-10-18",
+    "time": "09:00 AM",
+    "isCompleted": false
+  },
+  {
+    "id": 15,
+    "title": "Cloud Computing Summit",
+    "image": "https://images.unsplash.com/photo-1555617950-36f9a0f7c885",
+    "date": "2025-11-01",
+    "time": "10:00 AM",
+    "isCompleted": false
+  },
+  {
+    "id": 16,
+    "title": "Dance & Music Competition",
+    "image": "https://images.unsplash.com/photo-1497032205916-ac775f0649ae",
+    "date": "2025-10-08",
+    "time": "06:00 PM",
+    "isCompleted": false
+  },
+  {
+    "id": 17,
+    "title": "Sports Day",
+    "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
+    "date": "2025-09-27",
+    "time": "08:30 AM",
+    "isCompleted": true
+  },
+  {
+    "id": 18,
+    "title": "E-Sports Championship",
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa",
+    "date": "2025-10-25",
+    "time": "02:00 PM",
+    "isCompleted": false
+  },
+  {
+    "id": 19,
+    "title": "Science Fair 2025",
+    "image": "https://images.unsplash.com/photo-1532635245-dc93d09e6e4f",
+    "date": "2025-10-12",
+    "time": "11:00 AM",
+    "isCompleted": false
+  },
+  {
+    "id": 20,
+    "title": "Coding Bootcamp",
+    "image": "https://images.unsplash.com/photo-1526378722323-6b1e3f84b6e1",
+    "date": "2025-09-24",
+    "time": "09:00 AM",
+    "isCompleted": true
+  }
+]
